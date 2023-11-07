@@ -12,12 +12,16 @@ const ServiceProductCard = ({ service: {
     isAvailable,
     price,
     category,
-    updated_at
+    updated_at,
+    imgs
 } }) => {
     const navigate = useNavigate()
     return (
         <Card className="bg-white overflow-hidden text-sm border border-green-600">
-            <div className="p-4 pt-8 relative group">
+            <div className="py-2 px-4 relative group">
+                <div className="overflow-hidden rounded-lg ">
+                    <img src={imgs[0]} alt={"web pic"} className="w-full" />
+                </div>
                 <span className=" text-white absolute top-0 left-0 rounded-br-3xl py-1 pl-2 pr-5 bg-green-500 group-hover:min-w-[50%] transition-all origin-left duration-200 text-center font-bold">{category}</span>
                 <h2 className="text-xl font-semibold mb-2">{title}</h2>
                 <p className="text-gray-600 mb-4">{description}</p>

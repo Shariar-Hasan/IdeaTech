@@ -3,7 +3,7 @@ import plans from "../assets/fakedata/plans"
 import { AiFillCheckSquare } from "react-icons/ai"
 const Plans = () => {
     return (
-        <div className="bg-front py-16">
+        <div className="py-16">
             <div className="container mx-auto px-4">
                 <h2 className="text-center text-4xl font-bold mb-10">
                     Pricing Plans

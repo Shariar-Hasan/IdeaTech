@@ -8,7 +8,7 @@ import { useNavigate } from "react-router-dom"
 const Services = () => {
     const navigate = useNavigate()
     return (
-        <section className="bg-white py-12 my-10 min-h-screen">
+        <section className=" py-12 my-10 min-h-screen">
             <div className="container mx-auto">
                 <Heading>Services</Heading>
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
