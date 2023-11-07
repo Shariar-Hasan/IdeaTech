@@ -15,7 +15,9 @@
     "react-fast-marquee": "^1.6.2",
     "react-hook-form": "^7.48.2",
     "react-icons": "^4.11.0",
-    "react-router-dom": "^6.18.0"
+    "react-rating": "^2.0.5",
+    "react-router-dom": "^6.18.0",
+    "react-swift-reveal": "^1.0.2"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",

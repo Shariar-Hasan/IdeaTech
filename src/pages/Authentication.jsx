@@ -9,18 +9,19 @@ import { BsLinkedin } from "react-icons/bs"
 import { BsTwitter } from "react-icons/bs"
 
 const Authentication = () => {
-    const [isLogin, setIsLogin] = useState(false)
+    const [isLogin, setIsLogin] = useState(true)
     const { register, handleSubmit, getValues, formState: { errors } } = useForm()
 
     const onSubmit = (data) => {
         console.log(data)
     }
     return (
-        <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center">
+        <div className="min-h-screen bg-gray-100 flex flex-col justify-center items-center py-20">
             <div className="relative py-3 mx-10 w-[95%] sm:w-[500px] sm:mx-auto">
                 <div className="absolute inset-0 bg-gradient-to-r from-cyan-100 to-light-blue-500 shadow-lg transform -skew-y-6 sm:skew-y-0 sm:-rotate-6 sm:rounded-3xl"></div>
                 <div className="relative px-8 py-10 backdrop-blur-[5px] shadow-lg sm:rounded-3xl  border border-green-400 w-full">
                     <SubHeading>{isLogin ? "Login Form" : "Registration Form"}</SubHeading>
+                    {/* full form section  */}
                     <form onSubmit={handleSubmit(onSubmit)}>
                         {!isLogin &&
                             <TextInput
@@ -67,7 +68,7 @@ const Authentication = () => {
                             />}
                         {!isLogin &&
                             <CheckboxInput
-                                label={"dfasd as d asd as"}
+                                label={<span>I agree with the <span className="link-text">terms and conditions</span>.</span>}
                                 name={"isTermsSelected"}
                                 register={register("isTermsSelected", {
                                     validate: value => value || "You must agree Terms & Conditions"
@@ -87,12 +88,13 @@ const Authentication = () => {
                     ">OR</span>
                     </div>
                     {/* switch section  */}
-                    <div className="flex flex-row flex-wrap justify-around">
+                    <div className="flex flex-row flex-wrap justify-center items-center">
                         <span
                             onClick={() => setIsLogin(prev => !prev)}
-                            className="text-blue-600 cursor-pointer"
+                            className="link-text font-bold"
                         >{isLogin ? "Create Account" : "Sign In"}</span>
-                        <span className="text-blue-600 cursor-pointer">Privacy Policy</span>
+                        <span className="w-[1p x] h-[5p x] text-gray-600 mx-2">||</span>
+                        <span className="link-text font-bold">Privacy Policy</span>
                     </div>
 
                     {/* other sign in methods  */}

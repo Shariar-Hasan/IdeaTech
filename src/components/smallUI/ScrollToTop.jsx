@@ -8,7 +8,7 @@ const ScrollToTop = () => {
         })
     }
     return (
-        <span className="z-100 fixed bottom-[20px] right-[20px] text-[20px] md:text-[45px] cursor-pointer" onClick={handleScrollToTop}>
+        <span className="z-100 fixed bottom-[20px] right-[20px] text-[20px] text-gray-700 md:text-[45px] cursor-pointer" onClick={handleScrollToTop}>
             <BsFillArrowUpCircleFill />
         </span>
     )

@@ -1,7 +1,7 @@
 import Marquee from "react-fast-marquee"
 import { brands } from "../assets/fakedata/brands"
 import Heading from "./smallUI/Heading"
-import BrandCard from "./smallUI/BrandCard"
+import BrandCard from "./smallUI/Cards/BrandCard"
 
 const Brands = () => {
     return (
