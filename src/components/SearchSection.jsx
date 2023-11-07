@@ -9,7 +9,7 @@ const SearchSection = () => {
         console.log(searchText)
     };
     return (
-        <div className="min-h-[50vh] md:min-h-[100vh] bg-[url('./public/banner.jpg')] bg-fixed after:absolute relative after:top-0 after:left-0 after:w-full after:h-full after:bg-black after:bg-opacity-60 after:z-[-1] z-0  flex items-center justify-center flex-col py-12 px-4 sm:px-6 lg:px-8 text-white">
+        <div className="min-h-[50vh] md:min-h-[100vh] bg-[url('/public/banner.jpg')] bg-fixed after:absolute relative after:top-0 after:left-0 after:w-full after:h-full after:bg-black after:bg-opacity-60 after:z-[-1] z-0  flex items-center justify-center flex-col py-12 px-4 sm:px-6 lg:px-8 text-white">
             <h1 className="text-4xl font-bold tracking-widest">Search your Internal Query with us</h1>
             <div className="max-w-md w-full space-y-8">
                 <form onSubmit={handleSubmit} className="mt-8 space-y-2">
