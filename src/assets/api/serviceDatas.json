@@ -8,8 +8,14 @@
     "price": 1000,
     "category": "Development",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359901000,
+    "location": "Bangladesh",
     "tags": ["web", "development", "frontend", "backend"]
   },
   {
@@ -21,8 +27,14 @@
     "price": 500,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359901000,
+    "location": "Bangladesh",
     "tags": ["design", "graphics", "branding", "illustration"]
   },
   {
@@ -34,8 +46,14 @@
     "price": 800,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359904000,
+    "location": "Bangladesh",
     "tags": ["marketing", "seo", "social media", "advertising"]
   },
   {
@@ -47,8 +65,14 @@
     "price": 1200,
     "category": "Development",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359907000,
+    "location": "Bangladesh",
     "tags": ["mobile", "app", "ios", "android"]
   },
   {
@@ -60,8 +84,14 @@
     "price": 300,
     "category": "Writing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359904500,
+    "location": "Bangladesh",
     "tags": ["writing", "content", "blog", "copywriting"]
   },
   {
@@ -73,8 +103,14 @@
     "price": 200,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359900680,
+    "location": "Bangladesh",
     "tags": ["seo", "consultation", "search engine optimization"]
   },
   {
@@ -86,8 +122,14 @@
     "price": 600,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359908000,
+    "location": "Bangladesh",
     "tags": ["social media", "management", "marketing", "branding"]
   },
   {
@@ -99,8 +141,14 @@
     "price": 900,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359935000,
+    "location": "Bangladesh",
     "tags": ["ui", "ux", "design", "user experience"]
   },
   {
@@ -112,8 +160,14 @@
     "price": 700,
     "category": "Photography",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359455000,
+    "location": "Bangladesh",
     "tags": ["photography", "events", "products", "portraits"]
   },
   {
@@ -125,8 +179,14 @@
     "price": 1500,
     "category": "Development",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["e-commerce", "development", "online shopping", "website"]
   },
   {
@@ -138,8 +198,14 @@
     "price": 1200,
     "category": "Production",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["video", "production", "marketing", "promotional"]
   },
   {
@@ -151,8 +217,14 @@
     "price": 400,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["digital illustration", "design", "art", "creative"]
   },
   {
@@ -164,8 +236,14 @@
     "price": 1000,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "it consulting",
       "technology",
@@ -182,8 +260,14 @@
     "price": 800,
     "category": "Event Management",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["event planning", "events", "corporate", "social"]
   },
   {
@@ -195,8 +279,14 @@
     "price": 250,
     "category": "Writing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["translation", "language", "documents", "content"]
   },
   {
@@ -208,8 +298,14 @@
     "price": 600,
     "category": "Fitness",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["fitness", "training", "health", "personal"]
   },
   {
@@ -221,8 +317,14 @@
     "price": 750,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["social media", "advertising", "marketing", "branding"]
   },
   {
@@ -234,8 +336,14 @@
     "price": 1000,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["interior design", "decor", "homes", "office"]
   },
   {
@@ -247,8 +355,14 @@
     "price": 300,
     "category": "Legal",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["legal", "consultation", "law", "business"]
   },
   {
@@ -260,8 +374,14 @@
     "price": 400,
     "category": "Business Support",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["virtual assistant", "administration", "support", "tasks"]
   },
   {
@@ -273,8 +393,14 @@
     "price": 800,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "data analysis",
       "analytics",
@@ -291,8 +417,14 @@
     "price": 1200,
     "category": "Production",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["music production", "audio", "artists", "commercials"]
   },
   {
@@ -304,8 +436,14 @@
     "price": 500,
     "category": "Fitness",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["health coaching", "wellness", "fitness", "balance"]
   },
   {
@@ -317,8 +455,14 @@
     "price": 350,
     "category": "Writing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["creative writing", "novels", "stories", "marketing"]
   },
   {
@@ -330,8 +474,14 @@
     "price": 300,
     "category": "Education",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["language tutoring", "languages", "education", "fluency"]
   },
   {
@@ -343,8 +493,14 @@
     "price": 1500,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "virtual reality",
       "VR development",
@@ -361,8 +517,14 @@
     "price": 400,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["email marketing", "campaigns", "engagement", "sales"]
   },
   {
@@ -374,8 +536,14 @@
     "price": 300,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["social media", "consultation", "strategies", "businesses"]
   },
   {
@@ -387,8 +555,14 @@
     "price": 600,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["ppc", "advertising", "management", "campaigns"]
   },
   {
@@ -400,8 +574,14 @@
     "price": 250,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["logo design", "branding", "creative", "businesses"]
   },
   {
@@ -413,8 +593,14 @@
     "price": 200,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["brochure design", "marketing", "products", "services"]
   },
   {
@@ -426,8 +612,14 @@
     "price": 300,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["packaging design", "products", "innovative", "branding"]
   },
   {
@@ -439,8 +631,14 @@
     "price": 800,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["cybersecurity", "consulting", "online threats", "protection"]
   },
   {
@@ -452,8 +650,14 @@
     "price": 900,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["cloud infrastructure", "setup", "scalable", "reliable"]
   },
   {
@@ -465,8 +669,14 @@
     "price": 500,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699000990035,
+    "location": "Bangladesh",
     "tags": [
       "mobile app testing",
       "quality assurance",
@@ -483,8 +693,14 @@
     "price": 700,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["content marketing", "campaigns", "engagement", "conversions"]
   },
   {
@@ -496,8 +712,14 @@
     "price": 350,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["seo audit", "website analysis", "search rankings", "optimization"]
   },
   {
@@ -509,8 +731,14 @@
     "price": 750,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["social media", "advertising", "branding", "marketing"]
   },
   {
@@ -522,8 +750,14 @@
     "price": 900,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["influencer marketing", "promotions", "collaborations", "audience"]
   },
   {
@@ -535,8 +769,14 @@
     "price": 600,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "website redesign",
       "modern aesthetics",
@@ -553,8 +793,14 @@
     "price": 200,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["flyer design", "events", "promotions", "marketing"]
   },
   {
@@ -566,8 +812,14 @@
     "price": 150,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["social media graphics", "posts", "banners", "promotions"]
   },
   {
@@ -579,8 +831,14 @@
     "price": 250,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["print design", "business cards", "brochures", "collateral"]
   },
   {
@@ -592,8 +850,14 @@
     "price": 1200,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["mobile app development", "ios", "android", "custom apps"]
   },
   {
@@ -605,8 +869,14 @@
     "price": 1000,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["web development", "full-stack", "dynamic websites", "responsive"]
   },
   {
@@ -618,8 +888,14 @@
     "price": 800,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359440000,
+    "location": "Bangladesh",
     "tags": ["database management", "data storage", "efficiency", "retrieval"]
   },
   {
@@ -631,8 +907,14 @@
     "price": 1500,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699355540000,
+    "location": "Bangladesh",
     "tags": [
       "ai development",
       "smart automation",
@@ -649,8 +931,14 @@
     "price": 2000,
     "category": "Gaming",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "virtual reality games",
       "gaming experiences",
@@ -667,8 +955,14 @@
     "price": 900,
     "category": "Fitness",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "fitness app development",
       "workout tracking",
@@ -685,8 +979,14 @@
     "price": 700,
     "category": "Education",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "language learning",
       "interactive platform",
@@ -703,8 +1003,14 @@
     "price": 400,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "virtual interior design",
       "home spaces",
@@ -721,8 +1027,14 @@
     "price": 500,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["digital marketing", "consultation", "strategies", "campaigns"]
   },
   {
@@ -734,8 +1046,14 @@
     "price": 300,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["logo animation", "branding", "videos", "motion graphics"]
   },
   {
@@ -747,8 +1065,14 @@
     "price": 600,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "mobile app design",
       "ui/ux",
@@ -765,8 +1089,14 @@
     "price": 700,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "database development",
       "optimization",
@@ -783,8 +1113,14 @@
     "price": 1500,
     "category": "Gaming",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "game development",
       "interactive games",
@@ -801,8 +1137,14 @@
     "price": 900,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "business analytics",
       "data-driven",
@@ -819,8 +1161,14 @@
     "price": 40,
     "category": "Education",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "online tutoring",
       "interactive sessions",
@@ -837,8 +1185,14 @@
     "price": 25,
     "category": "Business Support",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "virtual assistant",
       "administrative tasks",
@@ -855,8 +1209,14 @@
     "price": 50,
     "category": "Writing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["content writing", "blogs", "websites", "marketing materials"]
   },
   {
@@ -868,8 +1228,14 @@
     "price": 800,
     "category": "Media Production",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699359090000,
+    "location": "Bangladesh",
     "tags": ["podcast production", "recording", "editing", "publishing"]
   },
   {
@@ -881,8 +1247,14 @@
     "price": 1000,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699300599000,
+    "location": "Bangladesh",
     "tags": [
       "ai chatbot",
       "customer support",
@@ -899,8 +1271,14 @@
     "price": 1200,
     "category": "Event Management",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
-    "updated_at": 1699359900000,
+    "updated_at": 1699390000590,
+    "location": "Bangladesh",
     "tags": [
       "virtual events",
       "event planning",
@@ -917,8 +1295,14 @@
     "price": 0.1,
     "category": "Language Services",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "document translation",
       "languages",
@@ -935,8 +1319,14 @@
     "price": 500,
     "category": "Virtual Reality",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "virtual reality tours",
       "real estate",
@@ -953,8 +1343,14 @@
     "price": 9.99,
     "category": "Fitness",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": ["health app", "fitness app", "workout plans", "nutrition tracking"]
   },
   {
@@ -966,8 +1362,14 @@
     "price": 25,
     "category": "Design",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "merchandise design",
       "custom apparel",
@@ -984,8 +1386,14 @@
     "price": 1500,
     "category": "Marketing",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "influencer management",
       "brand partnerships",
@@ -1002,8 +1410,14 @@
     "price": 200,
     "category": "Legal Services",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "legal document drafting",
       "contracts",
@@ -1020,8 +1434,14 @@
     "price": 50,
     "category": "Technology",
     "isAvailable": true,
+    "img": [
+      "https://i.ibb.co/yRDsSZ4/image.png",
+      "https://i.ibb.co/qjjdq80/image.png",
+      "https://i.ibb.co/q7D0pq1/image.png"
+    ],
     "created_at": 1699359900000,
     "updated_at": 1699359900000,
+    "location": "Bangladesh",
     "tags": [
       "it support",
       "remote support",

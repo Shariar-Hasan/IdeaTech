@@ -4,12 +4,15 @@
 * {
   @apply p-0 m-0 box-border scroll-smooth;
 }
+body {
+  @apply bg-back;
+}
 @layer components {
   .bg-button {
     @apply bg-gray-950 text-white;
   }
   .bg-back {
-    @apply bg-gray-50;
+    @apply bg-slate-100;
   }
   .bg-front {
     @apply bg-white;

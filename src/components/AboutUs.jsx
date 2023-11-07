@@ -18,7 +18,7 @@ const AboutUs = () => {
                     {
                         aboutus.map(({ title, motto }, i) =>
                             <div key={i} className="col-span-1">
-                                <Card className={"my-3 text-center w-full py-3 px-10 h-full group cursor-pointer border space-y-3"}>
+                                <Card className={"my-3 bg-front text-center w-full py-3 px-10 h-full group cursor-pointer border space-y-3"}>
                                     <h3 className="text-xl font-bold">{title}</h3>
                                     <p className="text-gray-600">
                                         {motto}

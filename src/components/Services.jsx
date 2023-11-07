@@ -2,8 +2,11 @@ import { Fade } from "react-swift-reveal"
 import { services } from "../assets/fakedata/services"
 import Card from "./BaseUI/Card"
 import Heading from "./smallUI/Heading"
+import Divider from "./smallUI/Divider"
+import { useNavigate } from "react-router-dom"
 
 const Services = () => {
+    const navigate = useNavigate()
     return (
         <section className="bg-white py-12 my-10 min-h-screen">
             <div className="container mx-auto">
@@ -20,10 +23,17 @@ const Services = () => {
                                     </p>
                                 </Card>
                             </Fade>
-
-
                         </div>)
                     }
+                </div>
+                <div className="text-center mt-4">
+                    <Divider>
+                        <button
+                            onClick={() => navigate("/services")}
+                            className="px-3 py-1 bg-gray-800 text-white rounded-sm">
+                            View All
+                        </button>
+                    </Divider>
                 </div>
             </div>
         </section>
