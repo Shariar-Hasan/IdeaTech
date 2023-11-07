@@ -28,9 +28,7 @@ const Brands = () => {
                 delay={5}
             >
                 {
-                    brands.sort(() => Math.random() - .5).map(({ link, title }, i) => <span key={i}>
-                        <img className="mx-10 my-5 p-5  hover:shadow-md rounded-full border border-transparent hover:border-gray-200 duration-100" src={link} alt={title} />
-                    </span>)
+                    brands.sort(() => Math.random() - .5).map((brand, i) => <BrandCard key={i} brand={brand} />)
                 }
             </Marquee>
             <Marquee
@@ -40,9 +38,7 @@ const Brands = () => {
                 delay={1}
             >
                 {
-                    brands.sort(() => Math.random() - .5).map(({ link, title }, i) => <span key={i}>
-                        <img className="mx-10 my-5 p-5 hover:shadow-md rounded-full border border-transparent hover:border-gray-200 duration-100" src={link} alt={title} />
-                    </span>)
+                    brands.sort(() => Math.random() - .5).map((brand, i) => <BrandCard key={i} brand={brand} />)
                 }
             </Marquee>
         </div>
