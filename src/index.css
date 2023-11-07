@@ -18,4 +18,9 @@
   .text-primary {
     @apply text-gray-900;
   }
+
+  /* Link Style */
+  .link-text {
+    @apply text-blue-600 cursor-pointer;
+  }
 }

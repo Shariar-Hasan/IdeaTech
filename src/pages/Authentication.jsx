@@ -2,6 +2,11 @@ import { useForm } from "react-hook-form"
 import TextInput from "../components/smallUI/FormElement/TextInput"
 import { useState } from "react"
 import { SubHeading } from "../components/smallUI/SubHeading"
+import CheckboxInput from "../components/smallUI/FormElement/CheckboxInput"
+import { FcGoogle } from "react-icons/fc"
+import { FaFacebookSquare } from "react-icons/fa"
+import { BsLinkedin } from "react-icons/bs"
+import { BsTwitter } from "react-icons/bs"
 
 const Authentication = () => {
     const [isLogin, setIsLogin] = useState(false)
@@ -60,6 +65,15 @@ const Authentication = () => {
                                 errors={errors}
                                 placeholder={"Enter Your Name"}
                             />}
+                        {!isLogin &&
+                            <CheckboxInput
+                                label={"dfasd as d asd as"}
+                                name={"isTermsSelected"}
+                                register={register("isTermsSelected", {
+                                    validate: value => value || "You must agree Terms & Conditions"
+                                })}
+                                errors={errors}
+                            />}
                         <div className="mt-4">
                             <button type="submit" className="bg-green-600 text-white py-2 px-4 rounded hover:bg-cyan-500">
                                 {isLogin ? "SIGN IN" : "SIGN UP"}
@@ -72,6 +86,23 @@ const Authentication = () => {
                     before:absolute before:top-[50%] before:right-full before:h-[2px] before:w-[70px] before:bg-gray-500
                     ">OR</span>
                     </div>
+                    {/* switch section  */}
+                    <div className="flex flex-row flex-wrap justify-around">
+                        <span
+                            onClick={() => setIsLogin(prev => !prev)}
+                            className="text-blue-600 cursor-pointer"
+                        >{isLogin ? "Create Account" : "Sign In"}</span>
+                        <span className="text-blue-600 cursor-pointer">Privacy Policy</span>
+                    </div>
+
+                    {/* other sign in methods  */}
+                    <div className="flex flex-row flex-wrap justify-center mt-4">
+                        <FcGoogle className="cursor-pointer mx-2 text-3xl" />
+                        <FaFacebookSquare className="text-blue-600 cursor-pointer mx-2 text-3xl" />
+                        <BsLinkedin className="text-blue-900 cursor-pointer mx-2 text-3xl" />
+                        <BsTwitter className="text-blue-600 cursor-pointer mx-2 text-3xl" />
+                    </div>
+
                 </div>
             </div>
         </div>
