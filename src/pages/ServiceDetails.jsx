@@ -4,6 +4,7 @@ import { useParams } from "react-router-dom"
 import BreadCrumb from "../components/smallUI/BreadCrumb"
 import Rating from "react-rating"
 import { LiaStarSolid } from "react-icons/lia"
+import moment from "moment/moment"
 const ServiceDetails = () => {
     const [service, setService] = useState(null)
     const { sid } = useParams()
@@ -59,6 +60,10 @@ const ServiceDetails = () => {
                                 {tag}
                             </span>
                         ))}
+                    </div>
+                    <hr />
+                    <div className="mb-4">
+                        <span className="text-gray-400 text-sm">Last Updated : {moment(service.updated_at).fromNow()}</span>
                     </div>
                 </div>
             </div>

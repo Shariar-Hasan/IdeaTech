@@ -1,9 +1,10 @@
 import Card from "./BaseUI/Card"
-
+import { FaQuoteLeft } from "react-icons/fa6"
 const ReviewCard = ({ rev: { name, review, profession } }) => {
     return (
-        <Card className={"bg-white p-6 h-full"}>
-            <p className="text-gray-700 my-2 text-justify">
+        <Card className={"bg-white p-6 h-full border-l-[5px] border-l-green-600 rounded-l-none"}>
+            <FaQuoteLeft className="text-xl"/>
+            <p className="text-gray-700 my-2 text-justify ">
                 {"\"" + review + "\""}
             </p>
             <hr />

@@ -1,3 +1,4 @@
+import { Fade } from "react-swift-reveal"
 import reviews from "../assets/fakedata/reviews"
 import ReviewCard from "./ReviewCard"
 import Heading from "./smallUI/Heading"
@@ -10,7 +11,9 @@ const Review = () => {
                 <div className="w-full grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3  gap-2 md:gap-4">
                     {reviews.slice(0, 3).map((rev, i) =>
                         <div className="col-span-1" key={i}>
-                            <ReviewCard rev={rev} />
+                            <Fade delay={i * 100}>
+                                <ReviewCard rev={rev} />
+                            </Fade>
                         </div>)}
                 </div>
             </div>
